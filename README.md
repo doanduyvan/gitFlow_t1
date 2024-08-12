@@ -1,2 +1,3 @@
 hello day là nhánh main, phiên bản chính thức
-v1
+
+day la phien ban cua develop
